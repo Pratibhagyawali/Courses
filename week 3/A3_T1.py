@@ -20,4 +20,3 @@ if (Remainder == 0):
 else:
     print("Sum is odd.")
 print("Program ending.")
-

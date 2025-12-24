@@ -1,3 +1,4 @@
+
 print("Program starting.")
 print("String comparisons")
 wordfirst = input("Insert first word: ")

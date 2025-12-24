@@ -1,3 +1,4 @@
+
 print("Program starting.")
 print("This is a program with simple menu, where you can choose which operation the program performs.")
 
