@@ -1,7 +1,9 @@
 print("Program starting.")
 print("Testing decision structures.")
 value = int(input("Insert an integer: "))
-print("Options:")
+
+print("\nOptions:")
+
 print("1 - In one multi-branched decision")
 print("2 - In multiple independent if-statements")
 print("0 - Exit")
